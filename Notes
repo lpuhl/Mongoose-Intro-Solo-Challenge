@@ -1,0 +1,18 @@
+Mongoose is an ODM
+Object Document Mapper (or Model)
+
+Equivalent in SQL is ORM (which we didn't use)
+Object Relational Model
+
+Mongoose is only for Mongo + Node
+
+No schemas in Mongo, but Mongoose allows you to create schema
+
+PATCH request - for updating properties of a document without overwriting the whole thing
+
+
+Services - can be used by more than one controller, i.e. $http
+
+factory - 
+
+Singleton — when you can only have one instance of something in the app
